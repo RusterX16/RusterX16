@@ -9,7 +9,7 @@
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4F5D95?style=for-the-badge&logo=sql&logoColor=white)
 ![Shell](https://img.shields.io/badge/-SHELL-89e051?style=for-the-badge&logo=shell&logoColor=white)
 - 🔧 Les outils que j'utilise :
   - IntelliJ IDEA
