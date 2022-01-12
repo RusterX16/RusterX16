@@ -17,7 +17,7 @@
   - Sublime Text
 - Un crayon et une feuille
 - 📫 Me contacter :
-- Par Mail : &nbsp;[![Gmail](https://img.shields.io/badge/-GOOGLE-1188C6?style=for-the-badge&logo=gmailin&logoColor=white)](mailto:EliottBarbetPro@gmail.com)
+- Par Mail : &nbsp;[![GOOGLE](https://img.shields.io/badge/-GMAIL-1188C6?style=for-the-badge&logo=gmailin&logoColor=white)](mailto:EliottBarbetPro@gmail.com)
 - Linkedin : &nbsp;[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliott-barbet-306530197/)
 - ⚡ Fun fact: 
 - Je collectionne des canettes de Soda et Energy Drinks
