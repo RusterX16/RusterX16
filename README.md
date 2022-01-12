@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**RusterX16/RusterX16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Actuellement étudiant en informatique
+- 💻 Les languages que je connais :
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+- C
+- PHP
+- SQL
+- Shell
+- 🔧 Les outils que j'utilise :
+- IntelliJ IDEA
+- GitHub
+- Sublime Text
+- Un crayon et une feuille
+- 📫 Me contacter :
+- Par Mail : &nbsp;[![Gmail](https://img.shields.io/badge/-GMAIL-1188C6?style=for-the-badge&logo=gmailin&logoColor=white)](mailto:EliottBarbetPro@gmail.com)
+- Linkedin : &nbsp;[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliott-barbet-306530197/)
+- ⚡ Fun fact: 
+- Je collectionne des canettes de Soda et Energy Drinks
