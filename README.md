@@ -11,8 +11,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4F5D95?style=for-the-badge&logo=sql&logoColor=white)
 ![Shell](https://img.shields.io/badge/-SHELL-89e051?style=for-the-badge&logo=shell&logoColor=white)
-- 🔧 Les outils que j'utilise :
-![INTELLIJ](https://img.shields.io/badge/-INTELLIJ-167dff?style=for-the-badge&logo=intellij&logoColor=white)
+- 🔧 Les outils que j'utilise :  
+![INTELLIJ](https://img.shields.io/badge/-INTELLIJIDEA-167dff?style=for-the-badge&logo=intellij&logoColor=white)
   - GitHub
   - Sublime Text
 - Un crayon et une feuille
