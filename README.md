@@ -19,7 +19,7 @@
 ![INTELLIJ](https://img.shields.io/badge/-INTELLIJ-167dff?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-f5f5f5?style=for-the-badge&logo=github&logoColor=white)
 ![SUBLIME TEXT](https://img.shields.io/badge/-SUBLIMETEXT-f5f5f5?style=for-the-badge&logo=sublimetext&logoColor=white)
-    - Un crayon et une feuille
+  - Un crayon et une feuille
   
 - 📫 Me contacter :  
   
