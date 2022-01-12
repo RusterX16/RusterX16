@@ -16,8 +16,8 @@
   - GitHub
   - Sublime Text
 - Un crayon et une feuille
-- 📫 Me contacter :
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliottBarbetPro@gmail.com)
+- 📫 Me contacter :  
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliottBarbetPro@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliott-barbet-306530197/)
 - ⚡ Fun fact: 
 - Je collectionne des canettes de Soda et Energy Drinks
