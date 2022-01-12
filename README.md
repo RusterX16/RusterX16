@@ -2,8 +2,8 @@
 
 - 🔭 Actuellement étudiant en informatique
 - 💻 Les languages que je connais :
-  - &nbsp;[![Java](https://img.shields.io/badge/-JAVA-1188C6?style=for-the-badge&logo=java&logoColor=orange)]
-  - &nbsp;[![HTML](https://img.shields.io/badge/-HTML-1188C6?style=for-the-badge&logo=html&logoColor=red)]
+  - &nbsp ; [![Java](https://img.shields.io/badge/-JAVA-1188C6?style=for-the-badge&logo=java&logoColor=orange)]
+  - &nbsp ; [![HTML](https://img.shields.io/badge/-HTML-1188C6?style=for-the-badge&logo=html&logoColor=red)]
   - CSS
   - JavaScript
   - Python
@@ -17,7 +17,7 @@
   - Sublime Text
 - Un crayon et une feuille
 - 📫 Me contacter :
-- Par Mail : &nbsp;[![GOOGLE](https://img.shields.io/badge/-GMAIL-1188C6?style=for-the-badge&logo=gmailin&logoColor=white)](mailto:EliottBarbetPro@gmail.com)
+- Par Mail : ![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliottBarbetPro@gmail.com)
 - Linkedin : &nbsp;[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliott-barbet-306530197/)
 - ⚡ Fun fact: 
 - Je collectionne des canettes de Soda et Energy Drinks
