@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🔭 Actuellement étudiant en informatique
-- 💻 Les languages que je connais :
-  - &nbsp ; [![Java](https://img.shields.io/badge/-JAVA-1188C6?style=for-the-badge&logo=java&logoColor=orange)]
-  - &nbsp ; [![HTML](https://img.shields.io/badge/-HTML-1188C6?style=for-the-badge&logo=html&logoColor=red)]
-  - CSS
+- 💻 Les languages que je connais :  
+![Java](https://img.shields.io/badge/-JAVA-1188C6?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-1188C6?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1188C6?style=for-the-badge&logo=html&logoColor=white)
   - JavaScript
   - Python
   - C
