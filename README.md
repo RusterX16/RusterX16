@@ -18,7 +18,7 @@
   
 ![INTELLIJ](https://img.shields.io/badge/-INTELLIJ-167dff?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-f5f5f5?style=for-the-badge&logo=github&logoColor=white)
-![SUBLIME TEXT](https://img.shields.io/badge/-SUBLIMETEXT-f5f5f5?style=for-the-badge&logo=sublimetext&logoColor=white)
+![SUBLIME TEXT](https://img.shields.io/badge/-SUBLIMETEXT-fc9800?style=for-the-badge&logo=sublimetext&logoColor=white)
   
 - 📫 Me contacter :  
   
