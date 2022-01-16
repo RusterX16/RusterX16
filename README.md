@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenue sur mon GitHub 👋
 
 - 🔭 Actuellement étudiant en informatique
   
