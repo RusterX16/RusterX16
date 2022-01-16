@@ -19,13 +19,10 @@
 ![INTELLIJ](https://img.shields.io/badge/-INTELLIJ-167dff?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-f5f5f5?style=for-the-badge&logo=github&logoColor=white)
 ![SUBLIME TEXT](https://img.shields.io/badge/-SUBLIMETEXT-f5f5f5?style=for-the-badge&logo=sublimetext&logoColor=white)
-  - Un crayon et une feuille
   
 - 📫 Me contacter :  
   
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliottBarbetPro@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliottBarbetPro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliott-barbet-306530197/)
   
-- ⚡ Fun fact: 
-  
-- Je collectionne des canettes de Soda et Energy Drinks
+- ⚡ Fun fact: Je collectionne des canettes de Soda et Energy Drinks
