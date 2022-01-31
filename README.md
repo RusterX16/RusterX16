@@ -31,7 +31,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14C2C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EliottBarbetPro@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-1188C6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliott-barbet-306530197/)
   
-- ✏️ What else do I like :
+- ✏️ What else I like :
     - Gaming
     - Drawing
     - Video editing
