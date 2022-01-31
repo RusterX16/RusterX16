@@ -19,7 +19,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-FF3C3C?style=for-the-badge&logo=sql&logoColor=white)
 ![Shell](https://img.shields.io/badge/-SHELL-89e051?style=for-the-badge&logo=shell&logoColor=white)
   
-- 🔧 The tools i'm using :  
+- 🔧 The tools I use :  
   
 ![INTELLIJ](https://img.shields.io/badge/-INTELLIJ-167dff?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white)
