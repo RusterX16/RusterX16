@@ -37,4 +37,4 @@
     - Video editing
     - Voice-over
   
-- ⚡ Fun fact: I'm collecting Je collectionne soda and energy drinks cans (currently 86)
+- ⚡ Fun fact: I'm collecting soda and energy drinks cans (currently 86)
