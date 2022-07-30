@@ -2,7 +2,13 @@
 
 - 🔭 Currently student in Computer Sciences
     - 1 Electrical and IT Degree
-    - 1 Comptuter Science Degree (in progress)
+    - 1 Comptuter Science Degree
+    - 1 Software Engineer Degree (In progress)
+
+- 👨‍💻 Working as FullStack developer in Paris
+  
+![Angular](https://img.shields.io/badge/-ANGULAR-dd1b16?style=for-the-badge&logo=angular&logoColor=black)
+![Csharp](https://img.shields.io/badge/-CSHARP-9b4993?style=for-the-badge&logo=csharp&logoColor=black)
   
 - 💻 The languages I master :  
   
@@ -37,4 +43,4 @@
     - Video editing
     - Voice-over
   
-- ⚡ Fun fact: I'm collecting soda and energy drinks cans (currently 86)
+- ⚡ Fun fact: I'm collecting soda and energy drinks cans (currently 196)
