@@ -5,8 +5,8 @@
     - 1 Comptuter Science Degree
     - 1 Software Engineer Degree (In progress)
 
-- 👨‍💻 Working as FullStack developer in Paris
-  
+- 👨‍💻 Working as FullStack developer in Paris Mainly with
+
 ![Angular](https://img.shields.io/badge/-ANGULAR-dd1b16?style=for-the-badge&logo=angular&logoColor=black)
 ![Csharp](https://img.shields.io/badge/-CSHARP-9b4993?style=for-the-badge&logo=csharp&logoColor=black)
   
@@ -22,8 +22,6 @@
 ![PYTHON](https://img.shields.io/badge/-PYTHON-3572A5?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-FF3C3C?style=for-the-badge&logo=sql&logoColor=white)
-![Shell](https://img.shields.io/badge/-SHELL-89e051?style=for-the-badge&logo=shell&logoColor=white)
   
 - 🔧 The tools I use :  
   
