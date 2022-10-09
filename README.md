@@ -1,8 +1,8 @@
 ### Hey ! Welcome to my GitHub 👋
 
-- 🔭 Currently student in Computer Sciences
-    - 1 Electrical and IT Degree
-    - 1 Comptuter Science Degree
+- 🔭 What's my studies Degree ?
+    - 1 Electrical and IT HND
+    - 1 Comptuter Science HND
     - 1 Software Engineer Degree (In progress)
 
 - 👨‍💻 Working as FullStack developer in Paris Mainly with
