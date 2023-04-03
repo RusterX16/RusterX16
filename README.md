@@ -5,10 +5,11 @@
     - 1 Comptuter Science HND
     - 1 Software Engineer Degree (In progress)
 
-- 👨‍💻 Working as FullStack developer in Paris Mainly with
+- 👨‍💻 Working as FullStack developer in Paris mainly with
 
 ![Angular](https://img.shields.io/badge/-ANGULAR-dd1b16?style=for-the-badge&logo=angular&logoColor=black)
 ![Csharp](https://img.shields.io/badge/-CSHARP-9b4993?style=for-the-badge&logo=csharp&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-1288c6?style=for-the-badge&logo=sql&logoColor=black)
   
 - 💻 The languages I master :  
   
